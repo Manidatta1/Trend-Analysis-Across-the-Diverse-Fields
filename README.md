@@ -3,6 +3,9 @@
 ## Introduction
 Welcome to the "Trend Analysis Across Diverse Fields" project! This project aims to analyze trends across various domains, providing insights into their significance and impact.
 
+
+![My Profile](Trend.png)
+
 ## Website
 Visit the project website for more details: https://manidatta1.github.io/Trend-Analysis-Across-the-Diverse-Fields/
 
